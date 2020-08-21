@@ -20,7 +20,7 @@
   "devDependencies": {
     "babel-jest": "23.4.0",
     "babel-preset-react-native": "^4.0.0",
-    "jest": "23.4.1",
+    "jest": "26.4.1",
     "react-test-renderer": "16.4.1",
     "babel-eslint": "^8.2.3",
     "babel-plugin-module-resolver": "^3.1.1",
